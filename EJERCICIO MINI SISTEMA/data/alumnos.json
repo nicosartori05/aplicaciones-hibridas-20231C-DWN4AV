@@ -1,0 +1,26 @@
+[
+    {
+      "legajo": 1001,
+      "nombre": "Luis",
+      "apellido": "González",
+      "año": 3
+    },
+    {
+      "legajo": 1002,
+      "nombre": "Ana",
+      "apellido": "Pérez",
+      "año": 2
+    },
+    {
+      "legajo": 1003,
+      "nombre": "Carlos",
+      "apellido": "García",
+      "año": 1
+    },
+    {
+      "legajo": 1004,
+      "nombre": "María",
+      "apellido": "Fernández",
+      "año": 3
+    }
+  ]
